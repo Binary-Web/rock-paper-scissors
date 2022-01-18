@@ -82,9 +82,6 @@ function scoreBoardUpdate(winner) {
 const rps = document.querySelectorAll('.options');
 const computerChoices = ["rock", "paper", "scissors"];
 
-function test() {
-    console.log(option)
-}
 
 rps.forEach(option => {
     console.log(option)
